@@ -1,0 +1,6 @@
+sample64^1^0^0^0^0^0^1^0^39^23^C64 test^1^1^0^1^0^3^0^-1^0^^0^^1^1^1^0
+^File$NULL
+^Quit$rci_quit~
+^%
+LABEL : Sample Test Program for Commodore 64^0^2^0^1^1^0^Sample Test Program for Commodore 64^^label^win1^NULL^0^
+^%
